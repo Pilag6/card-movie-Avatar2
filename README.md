@@ -3,6 +3,7 @@
 LINK: 
 https://pilag6.github.io/card-movie-Avatar2/
 
-![image](https://user-images.githubusercontent.com/79191808/204297909-cc12e65a-a3ac-4047-9773-940bdc09d60b.png)
+![image](https://user-images.githubusercontent.com/79191808/204300914-f8b6f304-ddb0-418f-bfb0-2dbd6968253b.png)
 
-![image](https://user-images.githubusercontent.com/79191808/204298013-956239f2-b5c1-4dcf-895b-68cd91005381.png)
+![image](https://user-images.githubusercontent.com/79191808/204301045-b9c0fb8c-3004-49b3-bfb4-1eeb25cd5031.png)
+
