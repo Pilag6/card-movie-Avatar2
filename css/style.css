@@ -64,7 +64,7 @@ body {
 .card .details {
     position: absolute;
     width: 100%;
-    bottom: -170px;
+    bottom: -170px; /* THIS IS A HOVER EFFECT */
     left: 0;
     padding: 20px;
     z-index: 2;
