@@ -14,11 +14,15 @@ body {
 
 .container {
     display: flex;
-    justify-content: center;
+    justify-content: flex-end;
     align-items: center;
+    padding-right: 100px;
     min-height: 100vh;
-    background: linear-gradient(var(--color-1), var(--color-2));
+    background-image: url("../img/BG-Avatar.png"),
+        linear-gradient(var(--color-1), var(--color-2));
+    background-repeat: no-repeat;
 }
+
 .card {
     position: relative;
     width: 320px;
@@ -147,5 +151,4 @@ body {
     overflow: hidden;
     border-radius: 50%;
     border: 2px solid #fff;
-
 }
